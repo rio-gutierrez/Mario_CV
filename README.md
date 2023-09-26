@@ -9,3 +9,7 @@ Personal CV inspired by [read.cv](https://read.cv/) and [Julien Thibeaut](https:
 - TypeScript
 - Dark mode
 - SEO optimized
+
+## Live App
+
+The site can be found live [here](https://mario-gutierrez-cv.vercel.app).
