@@ -3,7 +3,7 @@ export const contentData = [
     title: "Work Experience",
     items: [
       {
-        title: "Software Engineer at Mindex",
+        title: "Software Engineer at Mindex | Paychex",
         subTitle: "Remote",
         date: "2022 - Present",
         description: `Backend engineer using technologies such as Java, Spring,
