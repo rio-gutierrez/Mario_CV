@@ -4,7 +4,8 @@ export const generalInfo = {
   jobTitle: "Full-Stack Software Engineer",
   website: "https://ml-tech.space",
   about: `I am a software engineer with a background in mathematics and physics.
-          Passionate about technology and science.`,
+          Currently specialized on backend development, leveraging technologies
+          such as Java and the Spring framework.`,
   contacts: [
     {
       label: "Website",
@@ -22,14 +23,9 @@ export const generalInfo = {
       href: "https://www.linkedin.com/in/mario-gutierrez-abed",
     },
     {
-      label: "Github",
+      label: "GitHub",
       value: "rio-gutierrez",
       href: "https://github.com/rio-gutierrez",
-    },
-    {
-      label: "Read.CV",
-      value: "mario_gutierrez_cv",
-      href: "https://read.cv/ml_tech",
     },
     {
       label: "Twitter",

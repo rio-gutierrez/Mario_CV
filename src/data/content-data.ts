@@ -5,7 +5,7 @@ export const contentData = [
       {
         title: "Software Engineer at Mindex | Paychex",
         subTitle: "Remote",
-        date: "2022 - Present",
+        date: "2022 - 2024",
         description: `Backend engineer using technologies such as Java, Spring,
                       OracleDB, Jenkins, Kafka, Openshift, etc...`,
       },
